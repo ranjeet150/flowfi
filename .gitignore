@@ -1,7 +1,6 @@
 node_modules
 dist
 target
-.env
 .DS_Store
 coverage
 *.log
@@ -10,3 +9,4 @@ coverage
 **/test_snapshots/
 fix.md
 .npm-cache/
+config.bat
